@@ -58,3 +58,17 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+# macOS
+.DS_Store
+
+# Unity 本地编辑器设置（不入库）
+/[Uu]serSettings/
+
+# 本会话工具产物
+.dsh-vision-toolkit/
+
+# 个人文档与生成脚本
+Toonopaque_Shader讲解*
+build_shader_pdf.py
+build_toonopaque_step2_docx.py
